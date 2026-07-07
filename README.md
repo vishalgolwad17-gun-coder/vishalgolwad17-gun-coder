@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+## 👋 Hi, I'm Vishal<br><br>I'm a passionate Frontend Developer dedicated to building modern, responsive, and user-centric web applications. I enjoy transforming ideas into interactive digital experiences using clean code, thoughtful UI/UX design, and the latest web technologies.<br><br>My primary expertise lies in **React.js, JavaScript, Tailwind CSS, Redux Toolkit, Firebase, and Vite**. I also enjoy working with **Three.js, React Three Fiber, and GSAP** to create immersive and visually engaging web experiences.<br><br>I love solving real-world problems through technology and continuously challenge myself by building production-ready projects. Recently, I've been exploring **AI integration in web applications**, developing tools that leverage AI to deliver meaningful insights and improve user experiences.<br><br>I'm always eager to learn new technologies, collaborate with other developers, contribute to open-source projects, and build applications that are fast, accessible, and impactful.<br><br>### 💡 What I'm currently focusing on<br>- 🚀 Building production-ready React applications<br>- 🤖 Integrating AI into modern web experiences<br>- 📱 Creating responsive and accessible user interfaces<br>- ⚡ Improving web performance and user experience<br>- 🌱 Continuously learning and growing as a developer<br><br>Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate or discuss exciting opportunities.
 
-<!--
-**vishalgolwad17-gun-coder/vishalgolwad17-gun-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/vishal-golwad-96171339a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalgolwad17@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vishalgolwad17-gun-coder&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=vishalgolwad17-gun-coder&theme=holi&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishalgolwad17-gun-coder&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+---
+[![](https://komarev.com/ghpvc/?username=vishalgolwad17-gun-coder&icon=3&color=7)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
